@@ -1,5 +1,5 @@
 // ============================================
-// Pip-Boy Maps — Service Worker
+// Pip-Boy Ultimate — Service Worker
 // Caches map tiles for offline use
 // ============================================
 
